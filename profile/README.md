@@ -19,9 +19,9 @@ We are proud to have a diverse community of 21 members, including 8 dedicated ex
 
 ## 🙌 Get Involved
 We welcome students, professionals, and curious minds alike to join our community and contribute to our exciting initiatives. Here's how you can get involved:
-- Explore our [Contribution Guidelines](link-to-contribution-guidelines) to learn how you can participate in our projects and events.
-- Connect with fellow tech enthusiasts in our [Discussions](link-to-discussions) to share ideas, seek help, and collaborate.
-- Stay updated with our activities by watching our GitHub repository and following us on [Twitter](link-to-twitter) and [Instagram](link-to-instagram).
+- Explore our [Contribution Guidelines](#) to learn how you can participate in our projects and events.
+- Connect with fellow tech enthusiasts in our [Discussions](https://github.com/orgs/UWI-TRADC/discussions) to share ideas, seek help, and collaborate.
+- Stay updated with our activities by watching our GitHub repository and following us on [Twitter](#) and [Instagram](#).
 - Announcement Channel: Stay updated with our latest news and events by joining us on [Telegram](https://t.me/tradc_announcer).
 
 ## 🚀 What's Happening
@@ -29,8 +29,8 @@ We welcome students, professionals, and curious minds alike to join our communit
 - Stay tuned for our upcoming hackathons in 2 different countries! A great opportunity to showcase your skills and learn from fellow techies.
 
 ## 📚 Resources
-- Discover more about our projects, events, and initiatives in our [Documentation](link-to-documentation).
-- Have a question? Check out our [FAQs](link-to-faqs) for answers to common queries.
+- Discover more about our projects, events, and initiatives in our [Documentation](#).
+- Have a question? Check out our [FAQs](#) for answers to common queries.
 
 ## 🎉 Fun Facts
 Did you know? Our team's breakfast choices range from pancakes to avocado toast! 🥞🥑
