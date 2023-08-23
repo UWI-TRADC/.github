@@ -1,5 +1,5 @@
 ![Twitter header - 1](https://github.com/UWI-TRADC/.github/assets/93423666/f154114e-bbc9-410e-a145-23bb47d78cc3)
-# Welcome to UWI TRADC (Technology Research And Development Club)!
+# Welcome to UWI Technology Research And Development Club!
 
 
 **Introduction:**
