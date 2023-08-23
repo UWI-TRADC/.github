@@ -24,6 +24,7 @@ We welcome individuals who share our passion for technology and innovation. Whet
 **Resources:**
 - Documentation: Find detailed information about our projects, events, and initiatives in our [Documentation](link-to-documentation).
 - Social Media: Stay updated with our latest news and events by following us on [Twitter](link-to-twitter) and [Instagram](link-to-instagram).
+- Announcement Channel: Stay updated with our latest news and events by joining us on [Telegram](https://t.me/tradc_announcer).
 
 **Fun Facts:**
 Ever wondered what our team's favorite breakfast is? Well, we're a diverse bunch, so our breakfast choices vary from pancakes to avocado toast!
