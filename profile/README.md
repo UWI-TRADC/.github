@@ -3,8 +3,8 @@
 [![@Dark-S-r](https://img.shields.io/badge/-Meet%20The%20President-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dark-St-r)
 [![@Dark-S-r](https://img.shields.io/badge/-Let's%20Chat-181717?style=for-the-badge&logo=telegram&logoColor=white)](https://tinyurl.com/UWI-TRADC)
 [![@Dark-S-r](https://img.shields.io/badge/-Check%20Out%20Instagram-181717?style=for-the-badge&logo=instagram&logoColor=white)](https://#)
-[![@Dark-S-r](https://img.shields.io/badge/-Our%20Twitter-181717?style=for-the-badge&logo=x&logoColor=white)](https://#)
 [![@Dark-S-r](https://img.shields.io/badge/-Join%20The%20Discussion-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/UWI-TRADC/discussions)
+[![@Dark-S-r](https://img.shields.io/badge/-Our%20Twitter-181717?style=for-the-badge&logo=x&logoColor=white)](https://#)
 
 
 # Welcome to UWI TRADC! 🚀
