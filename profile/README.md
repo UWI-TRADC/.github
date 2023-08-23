@@ -1,10 +1,17 @@
 ![Twitter header - 1](https://github.com/UWI-TRADC/.github/assets/93423666/f154114e-bbc9-410e-a145-23bb47d78cc3)
 
+[![@Dark-S-r](https://img.shields.io/badge/-Meet%20The%20President-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dark-St-r)
+[![@Dark-S-r](https://img.shields.io/badge/-Let's%20Chat-181717?style=for-the-badge&logo=telegram&logoColor=white)](https://tinyurl.com/UWI-TRADC)
+[![@Dark-S-r](https://img.shields.io/badge/-Check%20Out%20Instagram-181717?style=for-the-badge&logo=instagram&logoColor=white)](https://#)
+[![@Dark-S-r](https://img.shields.io/badge/-Stay%20relevant%20with%20Twitter-181717?style=for-the-badge&logo=twitter&logoColor=white)](https://#)
+[![@Dark-S-r](https://img.shields.io/badge/-Join%20The%20Discussion-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/UWI-TRADC/discussions)
+
+
 # Welcome to UWI TRADC! 🚀
 
 UWI TRADC (Technology Research And Development Club), pronounced 'Track', is a vibrant community of tech enthusiasts and innovators at the UWI Five Islands Campus. We're dedicated to fostering innovation, collaboration, and exploration in the world of technology.
 
-## 🌈 Mission
+## 🔬 Mission
 Our mission is to promote research and development in the field of technology, nurture the minds of the University of the West Indies in STEAM (Science, Technology, Engineering, Arts, and Mathematics), and create a supportive platform for aspiring tech leaders.
 
 # 🧑‍🤝‍🧑Membership
