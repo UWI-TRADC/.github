@@ -31,6 +31,7 @@ We welcome students, professionals, and curious minds alike to join our communit
 ## 📚 Resources
 - Discover more about our projects, events, and initiatives in our [Documentation](#).
 - Have a question? Check out our [FAQs](#) for answers to common queries.
+- New to member of the club? Check out our [Github Student Benefits Guide](https://github.com/orgs/UWI-TRADC/discussions/1#discussion-5555856) just for you.
 
 ## 🎉 Fun Facts
 Did you know? Our team's breakfast choices range from pancakes to avocado toast! 🥞🥑
