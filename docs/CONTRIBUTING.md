@@ -46,8 +46,9 @@ We appreciate your contributions via pull requests. To submit a pull request:
 
 ### Setting Up the Development Environment
 
-To set up the project locally, follow these steps:
+<!-- TODO Refactor what should be shown here-->
 
+To set up the project locally, follow these steps:
 1. Clone your fork: `git clone https://github.com/yourusername/TRADC.git`.
 2. Navigate to the project directory: `cd TRADC`.
 3. Install dependencies: `npm install` or `yarn install`.
@@ -67,11 +68,35 @@ To set up the project locally, follow these steps:
 - Keep code modular and well-organized.
 - Write unit tests for new features and bug fixes.
 
+### Commit Message Guidelines
+
+When making a commit, please follow these guidelines to ensure clear and meaningful commit messages:
+
+1. **Use Present Tense:** Write commit messages in the present tense. For example, "Add new feature" rather than "Added new feature."
+2. **Be Concise:** Keep the subject line (the first line of the commit message) under 50 characters. It should be a brief summary of the change.
+3. **Use Imperative Mood:** Begin the subject line with an imperative verb. For example, "Fix bug" instead of "Fixes bug" or "Fixed bug."
+4. **Include Details:** After the subject line, provide a more detailed description of the change. This can be multiple lines if needed.
+5. **Reference Issues:** If your commit relates to an open issue, reference it using the issue number. For example, "Fix bug (#123)."
+6. **Separate Concerns:** If your commit involves multiple changes, consider breaking them into separate commits for clarity.
+7. **Avoid Trailing Whitespace:** Make sure there are no trailing whitespace characters in your commit message.
+
+Example Commit Message:
+
+```
+Update README with installation instructions
+
+Added step-by-step installation guide for Windows users.
+Included troubleshooting tips for common issues.
+Fixes #42
+```
+
+Remember, clear commit messages improve code collaboration and documentation. Thank you for contributing to our project!
+
 ## Community
 
 ### Communication
 
-Join our [Discord server](https://discord.gg/tradc) to interact with other contributors, ask questions, and discuss ideas.
+Join our [Discord server](https://discord.gg/fsy736R8) to interact with other contributors, ask questions, and discuss ideas.
 
 ### Sharing Ideas
 
