@@ -87,4 +87,4 @@ By contributing to this project, you agree that your contributions will be licen
 
 ---
 
-Thank you for considering contributing to TRADC! Your involvement helps us build better software together.
+Thank you for considering contributing to TRADC! Your involvement helps us build better software together.  
